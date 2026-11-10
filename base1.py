@@ -1,4 +1,4 @@
-"""AI Mouse Controller - full-frame tracking and stable pinch clicks.
+""" Mouse Controller - full-frame tracking and stable pinch clicks.
 
 Gestures
 --------
